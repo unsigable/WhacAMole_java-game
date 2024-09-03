@@ -1,3 +1,5 @@
+![whac-a-mole-demo](https://github.com/ImKennyYip/whac-a-mole-java/assets/78777681/07ed1058-0ed6-4521-9272-5db68925f218)
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
