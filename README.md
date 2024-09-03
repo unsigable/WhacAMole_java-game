@@ -1,4 +1,5 @@
-![whac-a-mole-demo](https://github.com/ImKennyYip/whac-a-mole-java/assets/78777681/07ed1058-0ed6-4521-9272-5db68925f218)
+
+![image](https://github.com/user-attachments/assets/ff99ca28-ebb3-4b7a-a9e8-c64c97155e8f)
 
 ## Getting Started
 
